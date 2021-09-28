@@ -1,2 +1,2 @@
 # FriendRecommendationSystem
-We will recommend friends based upon their taste
+We will recommend friends based upon their taste and Interest
